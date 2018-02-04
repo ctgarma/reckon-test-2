@@ -1,7 +1,8 @@
 # reckon-test-2
 
 Clone to local and install using npm install
-COMMAND LINE:
+
+command line:
 
 node server
 
